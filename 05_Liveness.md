@@ -150,7 +150,7 @@ int main() {
 ```
 Resultados 
 
-![Alt text](image-48.png)
+![Alt text](./Images/image-48.png)
 
 # 5. Livelock
 
@@ -159,21 +159,21 @@ Cuando dos o más hilos están bloqueados y todos están esperando que el otro s
 
 # 6. Questions
 
-![Alt text](image-49.png)
+![Alt text](./Images/image-49.png)
 
-![Alt text](image-50.png)
+![Alt text](./Images/image-50.png)
 
-![Alt text](image-51.png)
+![Alt text](./Images/image-51.png)
 
-![Alt text](image-52.png)
+![Alt text](./Images/image-52.png)
 
-![Alt text](image-53.png)
+![Alt text](./Images/image-53.png)
 
-![Alt text](image-54.png)
+![Alt text](./Images/image-54.png)
 
-![Alt text](image-55.png)
+![Alt text](./Images/image-55.png)
 
-![Alt text](image-56.png)
+![Alt text](./Images/image-56.png)
 
-![Alt text](image-57.png)
+![Alt text](./Images/image-57.png)
 

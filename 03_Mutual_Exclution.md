@@ -40,18 +40,18 @@
 
 ## 1.7. Questions
 
-![Alt text](image-30.png)
+![Alt text](./Images/image-30.png)
 
-![Alt text](image-31.png)
+![Alt text](./Images/image-31.png)
 
-![Alt text](image-32.png)
+![Alt text](./Images/image-32.png)
 
-![Alt text](image-33.png)
+![Alt text](./Images/image-33.png)
 
-![Alt text](image-34.png)
+![Alt text](./Images/image-34.png)
 
-![Alt text](image-35.png)
+![Alt text](./Images/image-35.png)
 
-![Alt text](image-36.png)
+![Alt text](./Images/image-36.png)
 
-![Alt text](image-37.png)
+![Alt text](./Images/image-37.png)

@@ -27,7 +27,7 @@
 
 ## 1.3. How is her relationship?
 
-![Alt text](image-14.png)
+![Alt text](./Images/image-14.png)
 
 ## 1.4. Inter-Process Communication (IPC)
 
@@ -125,7 +125,7 @@
   - Threads can further spawn their own children if needed.
   - Threads finish execution, notify their parent, and terminate, with the main thread usually being the last.
   - The lifecycle of a thread involves four states: **new, runnable, blocked, and terminated.**
-  - ![Alt text](image-15.png)
+  - ![Alt text](./Images/image-15.png)
 
 - **Thread Execution:**
   - Creating a new thread involves assigning it a function, the code it will execute.
@@ -232,30 +232,30 @@
 -  [End](<Ex_Files_C_Plus_Plus_Parallel_Prog/Exercise Files/CH02/02_09/end/detached_thread_demo.cpp>)
 
 # 9. Questions
-![Alt text](image-16.png)
+![Alt text](./Images/image-16.png)
 
-![Alt text](image-17.png)
+![Alt text](./Images/image-17.png)
 
-![Alt text](image-18.png)
+![Alt text](./Images/image-18.png)
 
-![Alt text](image-19.png)
+![Alt text](./Images/image-19.png)
 
-![Alt text](image-20.png)
+![Alt text](./Images/image-20.png)
 
-![Alt text](image-21.png)
+![Alt text](./Images/image-21.png)
 
-![Alt text](image-22.png)
+![Alt text](./Images/image-22.png)
 
-![Alt text](image-23.png)
+![Alt text](./Images/image-23.png)
 
-![Alt text](image-24.png)
+![Alt text](./Images/image-24.png)
 
-![Alt text](image-25.png)
+![Alt text](./Images/image-25.png)
 
-![Alt text](image-26.png)
+![Alt text](./Images/image-26.png)
 
-![Alt text](image-27.png)
+![Alt text](./Images/image-27.png)
 
-![Alt text](image-28.png)
+![Alt text](./Images/image-28.png)
 
-![Alt text](image-29.png)
+![Alt text](./Images/image-29.png)

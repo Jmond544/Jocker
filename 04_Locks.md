@@ -52,7 +52,7 @@ int main() {
 }
 ```
 
-![Alt text](image-38.png)
+![Alt text](./Images/image-38.png)
 
 ---
 
@@ -411,21 +411,21 @@ Ambos códigos logran el mismo propósito, pero el segundo código con `std::sha
 # 5. Questions
 
 
-![Alt text](image-39.png)
+![Alt text](./Images/image-39.png)
 
-![Alt text](image-40.png)
+![Alt text](./Images/image-40.png)
 
-![Alt text](image-41.png)
+![Alt text](./Images/image-41.png)
 
-![Alt text](image-42.png)
+![Alt text](./Images/image-42.png)
 
-![Alt text](image-43.png)
+![Alt text](./Images/image-43.png)
 
-![Alt text](image-44.png)
+![Alt text](./Images/image-44.png)
 
-![Alt text](image-45.png)
+![Alt text](./Images/image-45.png)
 
-![Alt text](image-46.png)
+![Alt text](./Images/image-46.png)
 
-![Alt text](image-47.png)
+![Alt text](./Images/image-47.png)
 
