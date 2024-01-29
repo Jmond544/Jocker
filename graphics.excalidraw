@@ -338,8 +338,8 @@
     },
     {
       "type": "text",
-      "version": 53,
-      "versionNonce": 196641542,
+      "version": 54,
+      "versionNonce": 393666835,
       "isDeleted": false,
       "id": "dFt7J4podEXte7ctBtoNm",
       "fillStyle": "solid",
@@ -359,7 +359,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1706029922682,
+      "updated": 1706488908029,
       "link": null,
       "locked": false,
       "fontSize": 31.84748342568601,
@@ -370,12 +370,12 @@
       "containerId": null,
       "originalText": "SISD",
       "lineHeight": 1.2,
-      "baseline": 30
+      "baseline": 31
     },
     {
       "type": "text",
-      "version": 85,
-      "versionNonce": 206149722,
+      "version": 86,
+      "versionNonce": 1756474781,
       "isDeleted": false,
       "id": "z23tBTkXyAW9cIuchwjhh",
       "fillStyle": "solid",
@@ -395,7 +395,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1706029922683,
+      "updated": 1706488908031,
       "link": null,
       "locked": false,
       "fontSize": 31.84748342568601,
@@ -406,12 +406,12 @@
       "containerId": null,
       "originalText": "SIMD",
       "lineHeight": 1.2,
-      "baseline": 30
+      "baseline": 31
     },
     {
       "type": "text",
-      "version": 98,
-      "versionNonce": 1761489478,
+      "version": 99,
+      "versionNonce": 1992246963,
       "isDeleted": false,
       "id": "APVaIup1N6JtI86LK9uks",
       "fillStyle": "solid",
@@ -431,7 +431,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1706029922685,
+      "updated": 1706488908032,
       "link": null,
       "locked": false,
       "fontSize": 31.84748342568601,
@@ -442,12 +442,12 @@
       "containerId": null,
       "originalText": "MISD",
       "lineHeight": 1.2,
-      "baseline": 30
+      "baseline": 31
     },
     {
       "type": "text",
-      "version": 108,
-      "versionNonce": 1391033626,
+      "version": 109,
+      "versionNonce": 1287909885,
       "isDeleted": false,
       "id": "uuc2wPQh0DmvQbNkD86P2",
       "fillStyle": "solid",
@@ -467,7 +467,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1706029922686,
+      "updated": 1706488908034,
       "link": null,
       "locked": false,
       "fontSize": 31.84748342568601,
@@ -478,7 +478,7 @@
       "containerId": null,
       "originalText": "MIMD",
       "lineHeight": 1.2,
-      "baseline": 30
+      "baseline": 31
     }
   ],
   "appState": {
