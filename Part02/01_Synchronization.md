@@ -110,7 +110,7 @@ class ServingLine {
 };
 ```
 
-![Alt text](image.png)
+![Alt text](./Images/image.png)
 
 # 3. Semaphore
 
@@ -132,7 +132,7 @@ Existen dos tipos principales de semáforos:
 |---|---|
 |Puede ser adquirido por un solo hilo a la vez|Puede ser adquirido por múltiples hilos a la vez|
 
-![Alt text](image-1.png)
+![Alt text](./Images/image-1.png)
 
 ## 3.2. Semaphore in C++
 
@@ -169,28 +169,28 @@ private:
 
 # 4. Questions
 
-![Alt text](image-2.png)
+![Alt text](./Images/image-2.png)
 
-![Alt text](image-3.png)
+![Alt text](./Images/image-3.png)
 
-![Alt text](image-4.png)
+![Alt text](./Images/image-4.png)
 
-![Alt text](image-5.png)
+![Alt text](./Images/image-5.png)
 
-![Alt text](image-6.png)
+![Alt text](./Images/image-6.png)
 
-![Alt text](image-7.png)
+![Alt text](./Images/image-7.png)
 
-![Alt text](image-8.png)
+![Alt text](./Images/image-8.png)
 
-![Alt text](image-9.png)
+![Alt text](./Images/image-9.png)
 
-![Alt text](image-10.png)
+![Alt text](./Images/image-10.png)
 
-![Alt text](image-11.png)
+![Alt text](./Images/image-11.png)
 
-![Alt text](image-12.png)
+![Alt text](./Images/image-12.png)
 
-![Alt text](image-13.png)
+![Alt text](./Images/image-13.png)
 
 *Que es un monitor?*

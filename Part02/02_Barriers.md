@@ -70,7 +70,8 @@ int main() {
 ```
 
 **`Resultado:`** Diferentes ejecuciones producen diferentes resultados.
-![Alt text](image-14.png)
+
+![Alt text](./Images/image-14.png)
 
 # 02. Barrier (Barrera)
 
@@ -96,14 +97,14 @@ int main() {
    - Después de la barrera, otro hilo (Barron) duplica la cantidad.
    - La barrera asegura que la secuencia de ejecución de los hilos no importa, ya que se garantiza que Olivia siempre agrega tres bolsas antes de la barrera, y Barron siempre duplica después de la barrera.
 
-    ![Alt text](image-15.png)
+    ![Alt text](./Images/image-15.png)
 
 7. **Flexibilidad de la Barrier:**
    - Aunque la secuencia de ejecución de los hilos puede ser diferente cada vez que se ejecuta el programa, la barrera garantiza un resultado consistente y evita race conditions.
 
 ## 2.2. Ejemplo en C++
 
-![Alt text](image-16.png)
+![Alt text](./Images/image-16.png)
 
 Para hcer esto podemos usar la librería `#include <boost/thread/barrier.hpp>` que nos permite crear una barrera.
 
@@ -161,7 +162,7 @@ int main() {
 
 Resultado (determinista):
 
-![Alt text](image-17.png)
+![Alt text](./Images/image-17.png)
 
 
 # 03. Latch
@@ -242,18 +243,18 @@ int main() {
 Este código en realidad tiene un error intencional. El latch se inicializa con un valor de 10, pero solo se llama a `count_down` cinco veces. Esto significa que el hilo principal se bloqueará esperando en el latch para siempre. Para solucionar esto, cambie el valor de conteo inicial a `5`.
 
 
-![Alt text](image-18.png)
+![Alt text](./Images/image-18.png)
 
 
 # 04. Questions
 
-![Alt text](image-19.png)
+![Alt text](./Images/image-19.png)
 
-![Alt text](image-20.png)
+![Alt text](./Images/image-20.png)
 
-![Alt text](image-21.png)
+![Alt text](./Images/image-21.png)
 
-![Alt text](image-22.png)
+![Alt text](./Images/image-22.png)
 
-![Alt text](image-23.png)
+![Alt text](./Images/image-23.png)
 
