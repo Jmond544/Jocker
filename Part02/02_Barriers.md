@@ -1,3 +1,12 @@
+- [01. Race condition](#01-race-condition)
+  - [1.2. Ejemplo en C++](#12-ejemplo-en-c)
+- [02. Barrier (Barrera)](#02-barrier-barrera)
+  - [2.2. Ejemplo en C++](#22-ejemplo-en-c)
+- [03. Latch](#03-latch)
+  - [3.2. Ejemplo en C++](#32-ejemplo-en-c)
+- [04. Questions](#04-questions)
+
+
 # 01. Race condition
 
 1. **Definición General:**

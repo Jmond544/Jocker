@@ -1,3 +1,11 @@
+- [1. Condition variable on parallel programming](#1-condition-variable-on-parallel-programming)
+- [2. Producer consumer problem](#2-producer-consumer-problem)
+- [3. Semaphore](#3-semaphore)
+  - [3.1. Mutex vs Semaphore](#31-mutex-vs-semaphore)
+  - [3.2. Semaphore in C++](#32-semaphore-in-c)
+- [4. Questions](#4-questions)
+
+
 # 1. Condition variable on parallel programming
 
 Estas son condiciones que se pueden usar para sincronizar hilos. La idea es que un hilo espere la notificación de otro hilo para continuar su ejecución y que no esté constantemente preguntando si puede continuar.

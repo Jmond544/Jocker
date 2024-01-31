@@ -1,5 +1,11 @@
 # Parallel computing architectures
 
+- [Parallel computing architectures](#parallel-computing-architectures)
+  - [Flynn's taxonomy](#flynns-taxonomy)
+  - [Shared memory vs Distributed memory](#shared-memory-vs-distributed-memory)
+- [Questions](#questions)
+
+
 ## Flynn's taxonomy
 
 ![Alt text](./Images/image.png)

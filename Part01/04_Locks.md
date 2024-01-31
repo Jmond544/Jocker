@@ -1,3 +1,15 @@
+- [1. Recursive mutex](#1-recursive-mutex)
+  - [Terminos comunes:](#terminos-comunes)
+- [2. Try Lock](#2-try-lock)
+- [3. Try Lock - Ejemplo](#3-try-lock---ejemplo)
+- [4. Shared mutex](#4-shared-mutex)
+- [5. Shared mutex - Ejemplo](#5-shared-mutex---ejemplo)
+  - [Diferencias y Puntos Destacados:](#diferencias-y-puntos-destacados)
+    - [Primer Código (Utilizando `std::mutex`):](#primer-código-utilizando-stdmutex)
+    - [Segundo Código (Utilizando `std::shared_mutex`):](#segundo-código-utilizando-stdshared_mutex)
+- [5. Questions](#5-questions)
+
+
 # 1. Recursive mutex
 
 Si un hilo intenta bloquear un mutex que ya está bloqueado, entra en una lista de espera, lo que podría provocar un estancamiento.

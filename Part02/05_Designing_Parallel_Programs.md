@@ -1,3 +1,17 @@
+- [Partitioning:](#partitioning)
+  - [Domain decomposition (Dominio de descomposición):](#domain-decomposition-dominio-de-descomposición)
+  - [Functional decomposition (Descomposición funcional):](#functional-decomposition-descomposición-funcional)
+  - [Mixed:](#mixed)
+- [Communication:](#communication)
+  - [Factores a considerar](#factores-a-considerar)
+- [Agglomeration:](#agglomeration)
+  - [Fine-grained Parallelism (Paralelismo de grano fino):](#fine-grained-parallelism-paralelismo-de-grano-fino)
+  - [Coarse-grained Parallelism (Paralelismo de grano grueso):](#coarse-grained-parallelism-paralelismo-de-grano-grueso)
+- [Mapping:](#mapping)
+- [Resumen:](#resumen)
+- [Questions](#questions)
+
+
 ![Alt text](./Images/image-54.png)
 
 # Partitioning:

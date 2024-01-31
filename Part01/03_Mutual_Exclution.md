@@ -1,3 +1,12 @@
+- [1. Data race](#1-data-race)
+  - [1.1. Solución](#11-solución)
+  - [1.2. Mutex](#12-mutex)
+  - [1.3 Mutex vs Atomic objects](#13-mutex-vs-atomic-objects)
+  - [1.4. Mutex on c++:](#14-mutex-on-c)
+  - [1.6 Atomic objects on c++:](#16-atomic-objects-on-c)
+  - [1.7. Questions](#17-questions)
+
+
 # 1. Data race
 - Dos o más hilos acceden a la misma variable compartida
 - Al menos uno de los hilos realiza una modificación

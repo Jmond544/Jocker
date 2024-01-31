@@ -1,3 +1,12 @@
+- [1. Deadlock](#1-deadlock)
+- [2. Deadlock C++](#2-deadlock-c)
+- [3. Abandoned Locks](#3-abandoned-locks)
+- [4. Starvation - Inanición](#4-starvation---inanición)
+  - [4.1. Ejemplo en C++:](#41-ejemplo-en-c)
+- [5. Livelock](#5-livelock)
+- [6. Questions](#6-questions)
+
+
 # 1. Deadlock
 
 1. **Dining Philosopher's Problem:**

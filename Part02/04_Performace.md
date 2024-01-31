@@ -1,3 +1,10 @@
+- [Términos importantes](#términos-importantes)
+- [Weak Scaling](#weak-scaling)
+- [Ley de Amdahl](#ley-de-amdahl)
+- [Eficiency](#eficiency)
+- [Questions](#questions)
+
+
 # Términos importantes
 
 - `Throughput`: Cantidad de trabajo realizado por unidad de tiempo.
