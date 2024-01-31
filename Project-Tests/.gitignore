@@ -1,0 +1,19 @@
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CMakeDirectoryInformation.cmake
+CMakeOutput.log
+CMakeTmp/
+Makefile
+Makefile.cmake
+cmake.check_cache
+cmake_install.cmake
+progress.marks
+
+# Compiled binaries
+main
+
+# Object files
+*.o
+*.obj
